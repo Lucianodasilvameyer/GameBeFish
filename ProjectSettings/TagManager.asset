@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: estrelas
+    uniqueID: 2376304273
+    locked: 0
+  - name: nuvens2
+    uniqueID: 1906146645
+    locked: 0
+  - name: nuvens1
+    uniqueID: 1778719929
+    locked: 0
+  - name: sol
+    uniqueID: 1421556913
+    locked: 0
+  - name: montanhas
+    uniqueID: 3844927853
+    locked: 0
+  - name: 'quartoChao '
+    uniqueID: 1357601091
+    locked: 0
+  - name: terceiroChao
+    uniqueID: 116529749
+    locked: 0
+  - name: segundoChao
+    uniqueID: 4054393721
+    locked: 0
+  - name: primeiroChao
+    uniqueID: 1019167453
+    locked: 0
+  - name: Piranha
+    uniqueID: 2346324093
+    locked: 0
